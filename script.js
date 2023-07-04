@@ -5,6 +5,8 @@ var uppercaseChar = "ABCDEFGHIJKLMNOPQRSTUZWXYZ";
 var numericalChar = "0123456789";
 var specialChar = "!#$%&'()*+-./:;<=>?@[\^_`{|}~";
 var passwordChars = "";
+var password = "";
+
 
 
 function writePassword() {
